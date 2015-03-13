@@ -1,0 +1,34 @@
+.email-nothing{
+    background: url('../images/blank.png') no-repeat;
+    color: #f0f0f0;
+    font-size: 0.005;
+ }
+
+ .display-none{
+    display: none;
+ }
+
+.email-invalid{
+    background:  url('../images/email-invalid.png') no-repeat;
+    color: transparent;
+    //height: auto;
+}
+
+.email-processing{
+    background:  url('../images/email-processing.gif') no-repeat;
+    height: 16px;
+    width: 16px;
+}
+
+.email-available{
+    background:  url('../images/email-available.png') no-repeat;
+    //height: auto;
+}
+
+.email-notavailable{
+    background:  url('../images/rsz_email-notavailable.png') no-repeat;
+    color: #f0f0f0;
+    //height: auto;
+}
+
+
